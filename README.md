@@ -49,19 +49,8 @@ I am a PhD scholar in Geography with a deep passion for data analysis and satell
 
 ## Get in Touch
 
-- **LinkedIn**: [Ravi Kesarwani](https://www.linkedin.com/in/ravi-kesarwani/)
-- **Twitter**: [@RaviGeographer](https://twitter.com/RaviGeographer)
-- **Email**: ravi.kesarwani@example.com
+- **LinkedIn**: [Ravi Kesarwani](https://www.linkedin.com/in/ravi-kesharwani-4b2546209/)
+- **Email**: rkesharwani@geography.du.ac.in
 
-## GitHub Stats
-
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi-kesarwani&show_icons=true&theme=radical)
-
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Analyzing Climate Data with Python](https://your-blog-link.com)
-- [Getting Started with Satellite Image Processing](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
